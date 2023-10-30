@@ -20,6 +20,7 @@ namespace MyTrade_Kabu
 
         public TopPage()
         {        
+            //変更
             InitializeComponent();
         }
 
